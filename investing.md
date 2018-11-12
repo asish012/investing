@@ -162,6 +162,9 @@ How much profit the company made per Cash cycle multiplied by how many Cash cycl
 9. Future prospects: MOATf
 
 10. PEG (price to earning to growth) ratio: should be <= 1.0
+    - PEG Ratio < 1  : Undervalued
+    - PEG Ratio == 1 : Fairly valued
+    - PEG Ratio > 1  : Overvalued
 
 11. Intrinsic value:
     - Intrinsic value > Current share price = Undervalued share
@@ -170,3 +173,22 @@ How much profit the company made per Cash cycle multiplied by how many Cash cycl
 12. Insider action: If insiders/the company itself is selling the share... don't buy that
 
 
+**< Check Dividend Yield as well >**
+- PEG Ratio = P/E Ratio / Estimated EPS Growth Rate
+- PEGY Ratio = P/E Ratio / (Estimated EPS Growth Rate + Dividend Yield)
+- PEGY Ratio = PEG Ratio X (1 / Dividend Yield)
+    - PEGY Ratio must be <= 1
+* If the company gives high dividend yield (> 8%) this formula doesn't work. Avoid high dividend yield company anyways.
+
+**< Discount Rate >**
+- Discount Rate = (MV of Equity / Total MV of Debt & Equity) X Re + (MV of Debt / Total MV of Debt & Equity) X Rd
+- Re =
+- Rd =
+- MV = Market Value = Market Cap = Current share price * Shares Outstanding
+
+**< Margin Of Safety >**
+- Margin of safety = 1 - (Current share price / Intrinsic value)
+- OR
+- Margin of safety = Intrinsic value X (1 - Margin of safety)
+- Intrinsic Value = (Present value + Terminal value + Cash - Debt) / Total number of shares outstanding
+-
