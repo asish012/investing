@@ -35,9 +35,9 @@
 
     - *- How to determine if the business has wide MOAT -* (all of these big 5 numbers should be >10% per yr for last 10 years)
         - **(ROIC)** (Return on investment capital) :
-        - *(Sales)* growth rate                     :
-        - *(Earnings per share)* (Diluted EPS) growth rate  : aka Diluted normalized number or Diluted EPS
         - *(Equity)* / book value per share (BVPS)  :
+        - *(Earnings per share)* (Diluted EPS) growth rate  : aka Diluted normalized number or Diluted EPS
+        - *(Sales)* growth rate                     :
         - *(Free cash flow)* growth rate            :
         + Debt                                      : less is better. 0 is the best.
             + If the total debt is payable by the business's free cash flow within 3 years then its acceptable (total debt/free cash flow).
