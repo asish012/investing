@@ -18,20 +18,20 @@ Growth and value investments tend to run in cycles. Understanding the difference
 
 | Ticker | Name                      | Sector             | Current Price (Assessment) | Fair Value | Reasonable Price | Zacks | Yahoo | Remark |             |
 | ------ | ------------------------- | ------------------ | -------------------------- | :--------: | :--------------: | :---: | ----- | ------ | ----------- |
-| ADBE   | Adobe Inc                 | Technology         | 261.37 (13% Discount)      |    300     |       225        |   3   | 2     | watch  | 0           |
-| ABMD   | Abiomed Inc               | Healthcare         | 358.08 (19% Premium)       |    300     |       250        |   2   | 1.5   | buy    | 10x360=3600 | 1
-| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 43.86  (31% Discount)      |     64     |        42        |   3   | 1!    | buy    | 10x43=430   | 4
-| CRM    | Salesforce.com Inc        | Technology         | 162.79 (10% Discount)      |    180     |       160        |   1   | 1.7   | buy    | 10x160=1600 | 2
+| ADBE   | Adobe Inc                 | Technology         | 261.37 (13% Discount)      |    300     |       225        |   3   | 2     | watch  | 225x10      | March
+| ABMD   | Abiomed Inc               | Healthcare         | 358.08 (19% Premium)       |    300     |       250        |   2   | 1.5   | buy    | 360x10=3600 | 1
+| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 43.86  (31% Discount)      |     64     |        42        |   3   | 1!    | buy    | 43x50=2150  | March
+| CRM    | Salesforce.com Inc        | Technology         | 162.79 (10% Discount)      |    180     |       160        |   1   | 1.7   | buy    | 159x12=1908 | 2
 | SQ     | Square Inc A              | Technology         | 75.59  (72% Premium)       |   44.00    |        50        |   2   |       |        |             |
 | AGN    | Allergan PLC              | Healthcare         | 138.80 (42% Discount)      |   240.00   |       140        |   3   |       |        |             |
 | CNTTF  | CannTrust Holdings Inc    | Healthcare         | 7.89   (5%  Discount)      |    8.29    |        8         |       |       |        |             |
 | NOW    | ServiceNow Inc            | Technology         | 234.65 (6%  Premium)       |    221     |       200        |   3   |       | watch  |             |
 | PAYC   | Paycom Software Inc       | Technology         | 173.34 (26% Premium)       |    137     |       150        |   3   |       | watch  |             |
-| MCHP   | Microchip Technology Inc  | Technology         | 91.51  (18% Discount)      |    112     |        90        |   4   |       | buy    |             |
+| MCHP   | Microchip Technology Inc  | Technology         | 91.51  (18% Discount)      |    112     |        90        |   4   |       |        |             |
 | MSFT   | Microsoft Corp            | Technology         | 106.89 (14% Discount)      |    125     |        90        |   3   |       | buy    |             |
 | AMZN   | Amazon.com Inc            | Consumer Cyclical  | 1648.65(26% Discount)      |    2200    |       1500       |   3   |       | watch  |             |
-| AAPL   | Apple Inc                 | Technology         | 171.90 (15% Discount)      |    200     |       150        |   5   |       | watch  |             |
-| AMAT   | Applied Materials Inc     | Technology         | 41.04  (17% Discount)      |     50     |        30        |   3   |       | watch  |             |
+| AAPL   | Apple Inc                 | Technology         | 171.90 (15% Discount)      |    200     |       150        |   5   |       |        |             |
+| AMAT   | Applied Materials Inc     | Technology         | 41.04  (17% Discount)      |     50     |        30        |   3   |       |        |             |
 | VEEV   | Veeva Systems Inc Class A | Technology         | 119.24 (29% Premium)       |     92     |        90        |   2   |       |        |             |
 | TCX    | Tucows Inc                |                    |                            |            |                  |       |       |        |             |
 | EXEL   |                           |                    |                            |            |                  |       |       |        |             |
@@ -42,7 +42,7 @@ Growth and value investments tend to run in cycles. Understanding the difference
 | ATVI   | Activision Blizzard Inc   | Technology         | 41.67  (40% Discount)      |   69.00    |        50        |       |       |        |             |
 |        |                           |                    |                            |            |                  |       |       |        |             |
 | ARAY   | Accuray Incorporated      | Healthcare         | 4.89   (2% Premium)        |    4.81    |        4         |   2   |       |        |             |
-| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 51.50  (23% Premium)       |   41.00    |        50        |   2   | 2     |        | 20x50=1000  | 3
+| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 51.50  (23% Premium)       |   41.00    |        50        |   2   | 2     |        | 50x20=1000  | 3
 | MRK    | Merck & Co Inc            | Healthcare         | 79.87  (6% Premium)        |   75.00    |        78        |   3   | 1.7   |        | 10          |
 | BABA   | Alibaba Group Holding ADR |                    |                            |            |                  |       |       |        |             |
 
