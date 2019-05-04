@@ -16,35 +16,40 @@ Growth and value investments tend to run in cycles. Understanding the difference
 
 # Stocks to invest #
 
-| Ticker | Name                      | Sector             | Current Price (Assessment) | Fair Value | Reasonable Price | Zacks | Yahoo | Remark |             |
-| ------ | ------------------------- | ------------------ | -------------------------- | :--------: | :--------------: | :---: | ----- | ------ | ----------- |
-| ADBE   | Adobe Inc                 | Technology         | 261.37 (13% Discount)      |    300     |       225        |   3   | 2     | watch  | 225x10      | March
-| ABMD   | Abiomed Inc               | Healthcare         | 358.08 (19% Premium)       |    300     |       250        |   2   | 1.5   | buy    | 360x10=3600 | 1
-| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 43.86  (31% Discount)      |     64     |        42        |   3   | 1!    | buy    | 43x50=2150  | March
-| CRM    | Salesforce.com Inc        | Technology         | 162.79 (10% Discount)      |    180     |       160        |   1   | 1.7   | buy    | 159x12=1908 | 2
-| SQ     | Square Inc A              | Technology         | 75.59  (72% Premium)       |   44.00    |        50        |   2   |       |        |             |
-| AGN    | Allergan PLC              | Healthcare         | 138.80 (42% Discount)      |   240.00   |       140        |   3   |       |        |             |
-| CNTTF  | CannTrust Holdings Inc    | Healthcare         | 7.89   (5%  Discount)      |    8.29    |        8         |       |       |        |             |
-| NOW    | ServiceNow Inc            | Technology         | 234.65 (6%  Premium)       |    221     |       200        |   3   |       | watch  |             |
-| PAYC   | Paycom Software Inc       | Technology         | 173.34 (26% Premium)       |    137     |       150        |   3   |       | watch  |             |
-| MCHP   | Microchip Technology Inc  | Technology         | 91.51  (18% Discount)      |    112     |        90        |   4   |       |        |             |
-| MSFT   | Microsoft Corp            | Technology         | 106.89 (14% Discount)      |    125     |        90        |   3   |       | buy    |             |
-| AMZN   | Amazon.com Inc            | Consumer Cyclical  | 1648.65(26% Discount)      |    2200    |       1500       |   3   |       | watch  |             |
-| AAPL   | Apple Inc                 | Technology         | 171.90 (15% Discount)      |    200     |       150        |   5   |       |        |             |
-| AMAT   | Applied Materials Inc     | Technology         | 41.04  (17% Discount)      |     50     |        30        |   3   |       |        |             |
-| VEEV   | Veeva Systems Inc Class A | Technology         | 119.24 (29% Premium)       |     92     |        90        |   2   |       |        |             |
-| TCX    | Tucows Inc                |                    |                            |            |                  |       |       |        |             |
-| EXEL   |                           |                    |                            |            |                  |       |       |        |             |
-|        |                           |                    |                            |            |                  |       |       |        |             |
-| CME    | CME Group                 | Financial Services | 178.93 (28% Premium)       |   140.00   |       100        |       |       |        |             |
-| GOOS   | Canada Goose Holdings Inc | Consumer Cyclical  | 58.85  (44% Premium)       |   40.79    |        30        |       |       |        |             |
-| INTC   | Intel Corp                | Technology         | 50.01  (23% Discount)      |   65.00    |        50        |       |       |        |             |
-| ATVI   | Activision Blizzard Inc   | Technology         | 41.67  (40% Discount)      |   69.00    |        50        |       |       |        |             |
-|        |                           |                    |                            |            |                  |       |       |        |             |
-| ARAY   | Accuray Incorporated      | Healthcare         | 4.89   (2% Premium)        |    4.81    |        4         |   2   |       |        |             |
-| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 51.50  (23% Premium)       |   41.00    |        50        |   2   | 2     |        | 50x20=1000  | 3
-| MRK    | Merck & Co Inc            | Healthcare         | 79.87  (6% Premium)        |   75.00    |        78        |   3   | 1.7   |        | 10          |
-| BABA   | Alibaba Group Holding ADR |                    |                            |            |                  |       |       |        |             |
+| Ticker | Name                      | Sector             | Current Price (Assessment) | Fair Value | Reasonable Price | Zacks | Yahoo | Remark |    |
+| ------ | ------------------------- | ------------------ | -------------------------- | :--------: | :--------------: | :---: | ----- | ------ | -- |
+| MSFT   | Microsoft Corp            | Technology         | 128 (10% Discount)         |    140     |       120        |   2   |       | watch  | 15 |
+| FB     | Facebook                  | Technology         | 195 (2% Discount)          |    200     |       240        |   2   |       |        |    |
+| GOOGL  | Google                    | Technology         | 1189 (8% Discount)         |    1300    |       1180       |   3   |       |        |    |
+| AMZN   | Amazon.com Inc            | Consumer Cyclical  | 1962 (15% Discount)        |    2300    |       1500       |   3   |       |        |    |
+| TSLA   | Tesla                     | Technology         | 255 (6% Premium)           |    240     |       240        |   5   |       | watch  | 5  |
+|        |                           |                    |                            |            |                  |       |       |        |    |
+| OLLI   | Ollie's Bargain Outlet    |                    | 96 (6% Premium)            |     90     |        90        |       |       |        |    |
+| ZOOM   | Zoom Technologies         | Technologies       | 2.1 (19% Discount)         |    2.6     |        2         |       |       |        |    |
+|        |                           |                    |                            |            |                  |       |       |        |    |
+| ADBE   | Adobe Inc                 | Technology         | 261.37 (13% Discount)      |    300     |       225        |   3   | 2     | watch  |    |
+| ABMD   | Abiomed Inc               | Healthcare         | 358.08 (19% Premium)       |    300     |       250        |   2   | 1.5   | buy    |    |
+| AAPL   | Apple Inc                 | Technology         | 171.90 (15% Discount)      |    200     |       150        |   5   |       |        |    |
+| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 43.86  (31% Discount)      |     64     |        42        |   3   | 1!    | buy    |    |
+|        |                           |                    |                            |            |                  |       |       |        |    |
+| CRM    | Salesforce.com Inc        | Technology         | 162.79 (10% Discount)      |    180     |       160        |   1   | 1.7   | buy    |    |
+| CNTTF  | CannTrust Holdings Inc    | Healthcare         | 7.89   (5%  Discount)      |    8.29    |        8         |       |       |        |    |
+| NOW    | ServiceNow Inc            | Technology         | 234.65 (6%  Premium)       |    221     |       200        |   3   |       | watch  |    |
+| PAYC   | Paycom Software Inc       | Technology         | 173.34 (26% Premium)       |    137     |       150        |   3   |       | watch  |    |
+| AMAT   | Applied Materials Inc     | Technology         | 41.04  (17% Discount)      |     50     |        30        |   3   |       |        |    |
+| VEEV   | Veeva Systems Inc Class A | Technology         | 119.24 (29% Premium)       |     92     |        90        |   2   |       |        |    |
+| TCX    | Tucows Inc                |                    |                            |            |                  |       |       |        |    |
+| EXEL   |                           |                    |                            |            |                  |       |       |        |    |
+|        |                           |                    |                            |            |                  |       |       |        |    |
+| CME    | CME Group                 | Financial Services | 178.93 (28% Premium)       |   140.00   |       100        |       |       |        |    |
+| GOOS   | Canada Goose Holdings Inc | Consumer Cyclical  | 58.85  (44% Premium)       |   40.79    |        30        |       |       |        |    |
+| INTC   | Intel Corp                | Technology         | 50.01  (23% Discount)      |   65.00    |        50        |       |       |        |    |
+| ATVI   | Activision Blizzard Inc   | Technology         | 41.67  (40% Discount)      |   69.00    |        50        |       |       |        |    |
+|        |                           |                    |                            |            |                  |       |       |        |    |
+| ARAY   | Accuray Incorporated      | Healthcare         | 4.89   (2% Premium)        |    4.81    |        4         |   2   |       |        |    |
+| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 51.50  (23% Premium)       |   41.00    |        50        |   2   | 2     |        |    |
+| MRK    | Merck & Co Inc            | Healthcare         | 79.87  (6% Premium)        |   75.00    |        78        |   3   | 1.7   |        |    |
+| BABA   | Alibaba Group Holding ADR |                    |                            |            |                  |       |       |        |    |
 
 
 # Health care winners of 2018 #
