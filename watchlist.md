@@ -16,36 +16,36 @@ Growth and value investments tend to run in cycles. Understanding the difference
 
 # Stocks :: Watching #
 
-| Ticker | Name                      | Sector             | Current Price (Value) | Fair Value | #1 Price | Target | Yahoo | Remark |     |
-| ------ | ------------------------- | ------------------ | --------------------- | :--------: | :------: | :----: | ----- | ------ | :-: |
-| AMZN   | Amazon.com Inc            | Consumer Cyclical  | 1804 (15% Discount)   |    2300    |          |  1600  |       |        |     |
-| BABA   | Alibaba Group Holding ADR | Consumer Cyclical  | 154  (36% Discount)   |    240     |          |  150   |       |        |     |
-|        |                           |                    |                       |            |          |        |       |        |     |
-| GOOGL  | Google                    | Technology         | 1068 (18% Discount)   |    1300    |          |  1000  |       |        |     |
-| MSFT   | Microsoft Corp            | Technology         | 130  (8%  Discount)   |    143     |          |  120   |       |        | 15  |
-| FB     | Facebook                  | Technology         | 173  (13% Discount)   |    200     |          |        |       |        | *** |
-| ADBE   | Adobe Inc                 | Technology         | 278  (6%  Discount)   |    296     |          |  250   |       |        | *** |
-| VEEV   | Veeva Systems Inc Class A | Technology         | 162  (29% Premium)    |     92     |          |   90   |       |        |     |
-| NVDA   | Nvdia                     | Technology         | 145  (21% Premium)    |    120     |          |  100   |       |        | **  |
-| TCX    | Tucows                    | Technology         | 62   (8%  Discount)   |     67     |          |   50   |       |        |     |
-| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 42   (34% Discount)   |     65     |          |   42   |       |        |  *  |
-| CRM    | Salesforce.com Inc        | Technology         | 162  (10% Discount)   |    180     |          |  160   |       |        |     |
-| NOW    | ServiceNow Inc            | Technology         | 234  (6%  Premium)    |    221     |          |  200   |       |        |     |
-| PAYC   | Paycom Software Inc       | Technology         | 173  (26% Premium)    |    137     |          |  150   |       |        |     |
-| AMAT   | Applied Materials Inc     | Technology         | 41   (17% Discount)   |     50     |          |   30   |       |        |     |
-| AAPL   | Apple Inc                 | Technology         | 171  (15% Discount)   |    200     |          |  150   |       |        |     |
-| ATVI   | Activision Blizzard Inc   | Technology         | 41   (40% Discount)   |     69     |          |   50   |       |        |     |
-| TSLA   | Tesla                     | Technology         | 255  (6%  Premium)    |    240     |          |  240   |       |        |     |
-|        |                           |                    |                       |            |          |        |       |        |     |
-| ABMD   | Abiomed Inc               | Healthcare         | 267  (16% Premium)    |    230     |          |  250   |       |        | **  |
-| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 71   (11% Premium)    |     64     |          |   50   |       |        | **  |
-| CNTTF  | CannTrust Holdings Inc    | Healthcare         | 7    (5%  Discount)   |    8.29    |          |   8    |       |        |     |
-| EXEL   |                           |                    |                       |            |          |        |       |        |     |
-|        |                           |                    |                       |            |          |        |       |        |     |
-| CME    | CME Group                 | Financial Services | 178  (28% Premium)    |    140     |          |  100   |       |        |     |
-| GOOS   | Canada Goose Holdings Inc | Consumer Cyclical  | 58   (44% Premium)    |     40     |          |   30   |       |        |     |
-|        |                           |                    |                       |            |          |        |       |        |     |
-| ARAY   | Accuray Incorporated      | Healthcare         | 4.8  (2% Premium)     |    4.81    |          |   4    |       |        |     |
+| Ticker | Name                      | Sector             | Current Price (Value) | Fair Value | #1 Price | Target | Remark |     |
+| ------ | ------------------------- | ------------------ | --------------------- | :--------: | :------: | :----: | ------ | :-: |
+| AMZN   | Amazon.com Inc            | Consumer Cyclical  | 1804 (15% Discount)   |    2300    |   1250   |  1600  |        |     |
+| BABA   | Alibaba Group Holding ADR | Consumer Cyclical  | 154  (36% Discount)   |    240     |    73    |  150   |        |     |
+|        |                           |                    |                       |            |          |        |        |     |
+| GOOGL  | Google                    | Technology         | 1068 (18% Discount)   |    1300    |   1195   |  1000  |        | *** |
+| MSFT   | Microsoft Corp            | Technology         | 130  (8%  Discount)   |    143     |    95    |  120   |        | 15  |
+| FB     | Facebook                  | Technology         | 173  (13% Discount)   |    200     |   227    |  160   |        | *** |
+| ADBE   | Adobe Inc                 | Technology         | 278  (6%  Discount)   |    296     |   220    |  250   |        | *** |
+| VEEV   | Veeva Systems Inc Class A | Technology         | 162  (29% Premium)    |     92     |    90    |   90   |        |     |
+| NVDA   | Nvdia                     | Technology         | 145  (21% Premium)    |    120     |    85    |  100   |        | **  |
+| TCX    | Tucows                    | Technology         | 62   (8%  Discount)   |     67     |          |   50   |        |     |
+| TCEHY  | Tencent Holdings Ltd ADR  | Technology         | 42   (34% Discount)   |     65     |          |   42   |        |  *  |
+| CRM    | Salesforce.com Inc        | Technology         | 152  (13% Discount)   |    186     |   170    |  150   |        |     |
+| NOW    | ServiceNow Inc            | Technology         | 234  (6%  Premium)    |    221     |          |  200   |        |     |
+| PAYC   | Paycom Software Inc       | Technology         | 173  (26% Premium)    |    137     |          |  150   |        |     |
+| AMAT   | Applied Materials Inc     | Technology         | 41   (17% Discount)   |     50     |          |   30   |        |     |
+| AAPL   | Apple Inc                 | Technology         | 171  (15% Discount)   |    200     |          |  150   |        |     |
+| ATVI   | Activision Blizzard Inc   | Technology         | 41   (40% Discount)   |     69     |          |   50   |        |     |
+| TSLA   | Tesla                     | Technology         | 255  (6%  Premium)    |    240     |          |  240   |        |     |
+|        |                           |                    |                       |            |          |        |        |     |
+| ABMD   | Abiomed Inc               | Healthcare         | 267  (16% Premium)    |    230     |          |  250   |        | **  |
+| TNDM   | Tandem Diabetes Care Inc  | Healthcare         | 71   (11% Premium)    |     64     |          |   50   |        | **  |
+| CNTTF  | CannTrust Holdings Inc    | Healthcare         | 7    (5%  Discount)   |    8.29    |          |   8    |        |     |
+| EXEL   |                           |                    |                       |            |          |        |        |     |
+|        |                           |                    |                       |            |          |        |        |     |
+| CME    | CME Group                 | Financial Services | 178  (28% Premium)    |    140     |          |  100   |        |     |
+| GOOS   | Canada Goose Holdings Inc | Consumer Cyclical  | 58   (44% Premium)    |     40     |          |   30   |        |     |
+|        |                           |                    |                       |            |          |        |        |     |
+| ARAY   | Accuray Incorporated      | Healthcare         | 4.8  (2% Premium)     |    4.81    |          |   4    |        |     |
 
 
 # Health care winners of 2018 #
